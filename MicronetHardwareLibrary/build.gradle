@@ -1,0 +1,4 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('MicronetHardwareLibraryv1.5.2 (2).aar'))
+dependencies {
+}

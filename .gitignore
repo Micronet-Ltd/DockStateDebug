@@ -1,0 +1,12 @@
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+treqr5platformkey.properties
+micronet-treqr5-platform.keystore
+.idea
+obc5keys.properties
